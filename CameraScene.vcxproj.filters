@@ -21,6 +21,9 @@
     <Image Include="assets\container.jpg">
       <Filter>Archivos de recursos</Filter>
     </Image>
+    <Image Include="3DScene.gif">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\shader.fs" />

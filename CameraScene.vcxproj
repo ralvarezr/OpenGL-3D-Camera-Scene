@@ -151,6 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Image Include="3DScene.gif" />
     <Image Include="assets\awesomeface.png" />
     <Image Include="assets\container.jpg" />
   </ItemGroup>
